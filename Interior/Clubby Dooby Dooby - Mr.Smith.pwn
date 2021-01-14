@@ -1,4 +1,4 @@
-#if defined DyetScripting
+#if defined GTAPRO
 
     GTA PRO
     Facebook: https://www.facebook.com/GTAPRO7777
