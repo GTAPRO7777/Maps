@@ -1,7 +1,7 @@
 #if defined GTAPRO
 
     GTA PRO
-    Facebook: https://www.facebook.com/gtapro7777
+    Facebook: https://www.facebook.com/GTAPRO7777
     VK: https://vk.com/GTAPRO7777
     YouTube: https://www.youtube.com/channel/UC3fby09ksG2ZrZ8CB2wTXdw
     Discord: https://discord.gg/UDPcHzRPk7
